@@ -26,8 +26,6 @@
 </hr>
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thuytranj&layout=compact)
-
  <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Madimi+One&weight=4000&size=30&duration=3000&pause=300&color=38C2FF&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Thanks+for+watching+!!!" alt="Typing SVG" /></a>
 </h1>
